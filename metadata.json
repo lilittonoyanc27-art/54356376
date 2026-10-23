@@ -1,0 +1,6 @@
+{
+  "name": "Lengua Castellana y Literatura",
+  "description": "Интерактивный справочник и тренажёр по испанскому языку и литературе с параллельным переводом на армянский и русский языки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
